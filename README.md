@@ -81,3 +81,9 @@ If you'd like to contribute to this project, fork the repository and create a pu
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+# Screenshots
+
+![image](https://github.com/SudarshanaRao/react-todo-app/assets/106806890/3528e03b-27de-45d6-bfc3-3cd828e5a6ee)
+
+![image](https://github.com/SudarshanaRao/react-todo-app/assets/106806890/61a086f3-1345-46bb-9f31-d4d81096881f)
+
