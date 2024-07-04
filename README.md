@@ -24,7 +24,7 @@ Before running the project, make sure you have the following installed:
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/react-todo-app.git
+git clone https://github.com/SudarshanaRao/react-todo-app.git
 ```
 
 ### 2. Navigate into the project directory:
